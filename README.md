@@ -25,5 +25,5 @@ Descobrir a localização dos navios escondidos no tabuleiro antes que suas tent
 
 1. **Clone o repositório** (ou copie o código para um arquivo `.py`):
    ```bash
-   git clone https://github.com/seu-usuario/batalha-naval-python.git
+   git clone https://github.com/dariocaa/Desafio-Batalha-Naval.git
    cd batalha-naval-python
